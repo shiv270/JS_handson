@@ -85,3 +85,5 @@ const ourDecimal = 5.7;
 
 // Only change code below this line
 const myDecimal = 5.7;
+//Multiply Two Decimals with JavaScript
+const product = 5.0 * 1.0;
