@@ -261,5 +261,9 @@ const myArray = [["John", 23], ["cat", 2]];
 
 // Only change code below this line
 const removedFromMyArray=myArray.pop(["John",33])
+//Manipulate Arrays With shift()
+// Setup
+const myArray = [["John", 23], ["dog", 3]];
 
-
+// Only change code below this line
+const removedFromMyArray= myArray.shift()
