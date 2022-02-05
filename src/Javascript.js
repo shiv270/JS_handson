@@ -23,3 +23,8 @@ b=a;
 // Only change code below this line
 
 var a=9;
+
+//Declare String Variables
+
+var myFirstName='Shiv'
+var myLastName='Yadav'
