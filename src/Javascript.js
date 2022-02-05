@@ -224,3 +224,10 @@ const myArray = ["String",23];
 //Nest one Array within Another Array
 // Only change code below this line
 const myArray = [[3,5],[23,35]];
+
+
+//Access Array Data with Indexes
+const myArray = [50, 60, 70];
+var myData=myArray[0]
+
+
