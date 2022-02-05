@@ -133,3 +133,6 @@ let c = 33;
 a /=12;
 b /=4;
 c /=11;
+
+//Escaping Literal Quotes in Strings
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
