@@ -367,3 +367,46 @@ function addFive(){
 
 addThree();
 addFive();
+
+
+// Setup
+let sum = 0;
+let processed = 0;
+
+function addThree() {
+  sum = sum + 3;
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+// Only change code below this line
+function addFive(){
+  sum+=5;
+}
+
+// Only change code above this line
+
+addThree();
+addFive(); 
+processed = processArg(7); 
+
+
+//Assignment with a Returned Value
+
+var changed = 0;
+
+function change(num) {
+  return (num + 5) / 3;
+}
+
+changed = change(10);
+
+// Setup
+var processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+// Only change code below this line
+processed = processArg(7);
