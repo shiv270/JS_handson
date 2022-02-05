@@ -220,3 +220,7 @@ const wordBlanks = myAdjective +" "+myNoun+" " + myVerb+" "+myAdverb; // Change 
 //Store Multiple Values in one Variable using JavaScript Arrays
 // Only change code below this line
 const myArray = ["String",23];
+
+//Nest one Array within Another Array
+// Only change code below this line
+const myArray = [[3,5],[23,35]];
