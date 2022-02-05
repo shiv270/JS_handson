@@ -663,3 +663,21 @@ function testStrictNotEqual(val) {
   
   // Change this value to test
   testLogicalOr(15);
+
+//Introducing Else Statements
+  function testElse(val) {
+    var result = "";
+    // Only change code below this line
+  
+    if (val > 5) {
+      result = "Bigger than 5";
+    } else {
+      result = "5 or Smaller";
+    }
+  
+  
+    return result;
+  }
+  
+  
+  testElse(4);
