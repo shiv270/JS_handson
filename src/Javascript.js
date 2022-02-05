@@ -278,3 +278,10 @@ myArray.unshift(["Paul", 35]);
 
 //Shopping List
 const myList = [["str",2],['2',3],['3',5],['3',4],['3',5]];
+
+//Write Reusable JavaScript with Functions
+function reusableFunction(){
+    console.log('Hi World')
+  }
+  
+  reusableFunction()
