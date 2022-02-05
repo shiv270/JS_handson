@@ -70,3 +70,8 @@ const difference = 45 -33;
 const product = 8 * 10;
 //Divide One Number by Another with JavaScript
 const quotient = 66 / 33;
+//Increment a Number with JavaScript
+let myVar = 87;
+
+// Only change code below this line
+myVar ++;
