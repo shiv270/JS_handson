@@ -952,3 +952,35 @@ function cc(card) {
 // Add/remove calls to test your function.
 // Note: Only the last will display
 cc(2); cc(3); cc(7); cc('K'); cc('A');
+
+
+//Build JavaScript Objects
+// Example
+var ourDog = {
+    "name": "Camper",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["everything!"]
+  };
+  
+  // Only change code below this line.
+  
+  var myDog = {
+    "name": "Lola",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["Sam", "Sarah"]
+  };
+  
+//Accessing Object Properties with Dot Notation
+
+// Setup
+const testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
+};
+
+// Only change code below this line
+const hatValue = testObj.hat;      // Change this line
+const shirtValue = testObj.shirt;    // Change this line
