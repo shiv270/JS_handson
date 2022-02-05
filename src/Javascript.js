@@ -90,3 +90,6 @@ const product = 5.0 * 1.0;
 
 //Divide One Decimal by Another with JavaScript
 const quotient = 4.4 / 2.0; // Change this line
+
+//Finding a Remainder in JavaScript
+const remainder = 12%5;
